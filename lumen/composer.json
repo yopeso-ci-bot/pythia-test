@@ -19,7 +19,7 @@
 		"laravel/lumen-framework": "5.8.*",
 		"squizlabs/php_codesniffer": "*",
 		"vlucas/phpdotenv": "^3.3",
-		"ext-json": "*"
+		"ext-json": "*",
 	},
 	"require-dev": {
 		"fzaninotto/faker": "^1.4",
