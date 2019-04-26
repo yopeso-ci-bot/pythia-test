@@ -16,6 +16,7 @@ class ExampleTest extends TestCase
 
         $this->assertEquals(
             $this->app->version(), $this->response->getContent()
+            #added line1
         );
     }
 }
